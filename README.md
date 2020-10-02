@@ -31,11 +31,11 @@
     * [John Maeda Morisawa 10](https://maedastudio.com/morisawa-10-2016/)
     * [Eyeo 2013 - James Paterson](https://vimeo.com/69323991)
     * [Zach Liberman's Instagram](https://www.instagram.com/zach.lieberman/?hl=en)
+  * Course Intro
+    * Overview / Syllabus
   * [P5.js](https://p5js.org/) and [Javascript](https://en.wikipedia.org/wiki/JavaScript)
   * The history of [P5.js](https://p5js.org/) and [Processing](https://processing.org/)
   * [Editor](https://editor.p5js.org/)
-  * Course Intro
-    * Overview / Syllabus
     
 ### Week 2 -- Shape / Variables
   * [John Maeda Ted 2012](https://www.ted.com/talks/john_maeda_how_art_technology_and_design_inform_creative_leaders)
