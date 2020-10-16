@@ -65,11 +65,12 @@
     * Declare, Initialize, and Use
     * Type of the variable (Number, String, Boolean)
     * Scope
- * Debug
-    * Javascript Debugger
+ * Animation
  * [Boolean Operation](https://editor.p5js.org/jinsung/sketches/HYDqGeOFv)
  * [Random](https://editor.p5js.org/jinsung/sketches/OWSOiteWJ)
  * [Easing](https://editor.p5js.org/jinsung/sketches/UjXbU3Q8O)
+ * Debug
+    * Javascript Debugger
 
 ### Week 4 -- Loop
  * [Kyle McDonald](https://kylemcdonald.net/)
