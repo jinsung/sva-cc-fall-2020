@@ -66,7 +66,6 @@
     * Type of the variable (Number, String, Boolean)
     * Scope
  * Debug
-    * console.log
     * Javascript Debugger
  * [Boolean Operation](https://editor.p5js.org/jinsung/sketches/HYDqGeOFv)
  * [Random](https://editor.p5js.org/jinsung/sketches/OWSOiteWJ)
