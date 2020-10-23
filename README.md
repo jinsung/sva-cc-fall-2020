@@ -79,7 +79,8 @@
  * [While Loop 1](https://editor.p5js.org/jinsung/sketches/p_11LXsvK)
  * [While Loop 2](https://editor.p5js.org/jinsung/sketches/MJ1oqNRBH)
  * [For Loop 1](https://editor.p5js.org/jinsung/sketches/5Ck8nwtLc)
- * [For Loop 2](https://editor.p5js.org/jinsung/sketches/_ePNjW-0h)
+ * [For Loop 2](https://editor.p5js.org/jinsung/sketches/qUt5uC0GX)
+ * [For Loop 3](https://editor.p5js.org/jinsung/sketches/_ePNjW-0h)
 
 ### Week 5 -- Nested Loop
  * Zach Lieberman    
