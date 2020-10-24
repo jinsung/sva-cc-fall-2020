@@ -73,6 +73,7 @@
     * Javascript Debugger
 
 ### Week 4 -- Loop
+ * Homework1: Create a [bouncing ball](https://jinsung.github.io/sva-cc-fall-2017/week04/examples/04_bouncing_ball/index.html) with your own design
  * Presenters: Zhiyi, Yuan
  * [Kyle McDonald](https://kylemcdonald.net/)
  * [Conditions](https://editor.p5js.org/jinsung/sketches/kq1Cszsja)
@@ -84,6 +85,7 @@
  * [For Loop 3](https://editor.p5js.org/jinsung/sketches/_ePNjW-0h)
 
 ### Week 5 -- Nested Loop
+ * Homework2: Design your art with many shapes using [For loop](https://p5js.org/reference/#/p5/for)
  * Presenters: Ethan, Siyue, Shiqing, Erin
  * Zach Lieberman    
  * [Manual Input Sessions](https://www.youtube.com/watch?v=3paLKLZbRY4)
