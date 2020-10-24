@@ -57,7 +57,7 @@
   * Console.log!
 
 ### Week 3 -- Bouncing Ball!
- * Presenter: Kaylan, Jinyuan, Hyun Jin
+ * Presenters: Kaylan, Jinyuan, Hyun Jin
  * Casey Reas
     * [How to draw with Code](https://www.youtube.com/watch?v=_8DMEHxOLQE)
  * [Variables](https://editor.p5js.org/jinsung/sketches/LnK1fCGxG)
@@ -73,6 +73,7 @@
     * Javascript Debugger
 
 ### Week 4 -- Loop
+ * Presenters: Zhiyi, Yuan
  * [Kyle McDonald](https://kylemcdonald.net/)
  * [Conditions](https://editor.p5js.org/jinsung/sketches/kq1Cszsja)
  * [Conditions 2](https://editor.p5js.org/jinsung/sketches/1kKTMtQS)
@@ -83,12 +84,12 @@
  * [For Loop 3](https://editor.p5js.org/jinsung/sketches/_ePNjW-0h)
 
 ### Week 5 -- Nested Loop
+ * Presenters: Ethan, Siyue, Shiqing, Erin
  * Zach Lieberman    
  * [Manual Input Sessions](https://www.youtube.com/watch?v=3paLKLZbRY4)
     * [IQ Font](https://vimeo.com/5233789)
     * [Reflection](https://www.youtube.com/watch?v=FOV3FDbpEvI)
     * [Reflection](https://twitter.com/zachlieberman/status/1082672539464331264)
- * Debugger
  * [For Loop 3](https://editor.p5js.org/jinsung/sketches/oIg2GKphj)
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/u5kQQvSQf)
  * [Random VS Perlin Noise](https://editor.p5js.org/jinsung/sketches/DghwXR_H)
