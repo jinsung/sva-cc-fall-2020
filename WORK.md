@@ -20,7 +20,6 @@
 * [Homework #1](https://editor.p5js.org/ttran4/sketches/z5phTL3lE)
 
 ### Erin Wang
-* [Homework #1]()
 
 ### Siyue(Isaac) Zhang
 * [Homework #1](https://editor.p5js.org/Isaac_zhang/sketches/i2V0IvhKE)
