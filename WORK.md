@@ -8,7 +8,9 @@
 * [Homework #1](https://editor.p5js.org/yuan98/sketches/Zs21QWIdW)
 
 ### Miki Isayama
-* [Homework #1](https://editor.p5js.org/icm/sketches/BJKWv5Tn)
+* [Homework #1](https://editor.p5js.org/mikiisayama/sketches/uBy4lfF8A)
+* [Homework #2-1](https://editor.p5js.org/mikiisayama/sketches/uBy4lfF8A)
+* [Homework #2-2](https://editor.p5js.org/mikiisayama/sketches/ZSEkuSl7w)
 
 ### Hyun Jin Kim
 * [Homework #1](https://editor.p5js.org/Hyunjin/sketches/BF2CwR0cV)
