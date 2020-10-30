@@ -86,7 +86,7 @@
 
 ### Week 5 -- Nested Loop
  * Homework2: Design your art with many shapes using [For loop](https://p5js.org/reference/#/p5/for)
- * Presenters: Ethan, Siyue, Shiqing, Erin
+ * Presenters: Ethan, Siyue, Shiqing
  * Zach Lieberman    
  * [Manual Input Sessions](https://www.youtube.com/watch?v=3paLKLZbRY4)
     * [IQ Font](https://vimeo.com/5233789)
