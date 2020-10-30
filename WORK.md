@@ -20,6 +20,7 @@
 
 ### YJ Park
 * [Homework #1](https://editor.p5js.org/YeaJin/sketches/XwrSZ1wIk)
+* [Homework #2](https://editor.p5js.org/ypark58/sketches/bgPEpzgPl)
 
 ### Kaylan Tran
 * [Homework #1](https://editor.p5js.org/ttran4/sketches/z5phTL3lE)
