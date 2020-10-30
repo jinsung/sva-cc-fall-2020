@@ -38,4 +38,5 @@
 
 ### Zhiyi(Zoey) Zhu
 * [Homework #1](https://editor.p5js.org/juziey/sketches/ctEDfi2Gz)
+* [Homework #2](https://editor.p5js.org/juziey/sketches/W1WwEsoVH)
 
