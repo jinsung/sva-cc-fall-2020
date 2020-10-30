@@ -97,6 +97,7 @@
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/u5kQQvSQf)
  * [Random VS Perlin Noise](https://editor.p5js.org/jinsung/sketches/DghwXR_H)
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/BUhPCkQM_)
+ * [curveVertex()](https://p5js.org/reference/#/p5/curveVertex)
  * [Nested For Loop / Curves](https://editor.p5js.org/jinsung/sketches/1q36GJcFT)
 
 ### Week 6 -- 2D Transformation / Function
