@@ -1,5 +1,6 @@
 ### Ethan Clark
 * [Homework #1](https://editor.p5js.org/EthanClark/sketches/xT2Ahc25cb)
+* [Homework #2](https://editor.p5js.org/EthanClark/sketches/LsPf-4orR)
 
 ### Qinghua Dong
 * [Homework #1](https://editor.p5js.org/jodong/sketches/uQcuhwWUM)
@@ -24,6 +25,7 @@
 
 ### Kaylan Tran
 * [Homework #1](https://editor.p5js.org/ttran4/sketches/z5phTL3lE)
+* [Homework #2](https://editor.p5js.org/ttran4/sketches/w3E4kKyLW)
 
 ### Erin Wang
 * [Homework #1](https://editor.p5js.org/eeeee1/sketches/sOGcRReHF)
@@ -35,6 +37,7 @@
 
 ### Jinyuan Zheng
 * [Homework #1](https://editor.p5js.org/jzheng8/sketches/DrJ3t0g9i)
+* [Homework #2](https://editor.p5js.org/jzheng8/sketches/HIps85g7h)
 
 ### Zhiyi(Zoey) Zhu
 * [Homework #1](https://editor.p5js.org/juziey/sketches/ctEDfi2Gz)
