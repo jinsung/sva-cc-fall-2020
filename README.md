@@ -81,8 +81,8 @@
  * [While Loop 1](https://editor.p5js.org/jinsung/sketches/p_11LXsvK)
  * [While Loop 2](https://editor.p5js.org/jinsung/sketches/MJ1oqNRBH)
  * [For Loop 1](https://editor.p5js.org/jinsung/sketches/5Ck8nwtLc)
- * [For Loop 2](https://editor.p5js.org/jinsung/sketches/qUt5uC0GX)
- * [For Loop 3](https://editor.p5js.org/jinsung/sketches/_ePNjW-0h)
+ * [For Loop / Curves](https://editor.p5js.org/jinsung/sketches/qUt5uC0GX)
+ * [For Loop 2](https://editor.p5js.org/jinsung/sketches/_ePNjW-0h)
 
 ### Week 5 -- Nested Loop
  * Homework2: Design your art with many shapes using [For loop](https://p5js.org/reference/#/p5/for)
@@ -92,10 +92,12 @@
     * [IQ Font](https://vimeo.com/5233789)
     * [Reflection](https://www.youtube.com/watch?v=FOV3FDbpEvI)
     * [Reflection](https://twitter.com/zachlieberman/status/1082672539464331264)
+ * [Trigonometry](https://editor.p5js.org/jinsung/sketches/_WxzlsQow)
  * [For Loop 3](https://editor.p5js.org/jinsung/sketches/oIg2GKphj)
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/u5kQQvSQf)
  * [Random VS Perlin Noise](https://editor.p5js.org/jinsung/sketches/DghwXR_H)
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/BUhPCkQM_)
+ * [Nested For Loop / Curves](https://editor.p5js.org/jinsung/sketches/1q36GJcFT)
 
 ### Week 6 -- 2D Transformation / Function
  * Daito Manabe
