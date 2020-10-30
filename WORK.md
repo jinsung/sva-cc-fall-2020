@@ -3,9 +3,11 @@
 
 ### Qinghua Dong
 * [Homework #1](https://editor.p5js.org/jodong/sketches/uQcuhwWUM)
+* [Homework #2](https://editor.p5js.org/jodong/present/PKfT_aIkW)
 
 ### Yuan Fang
 * [Homework #1](https://editor.p5js.org/yuan98/sketches/Zs21QWIdW)
+* [Homework #2](https://editor.p5js.org/yuan98/sketches/yf9P7eKYv)
 
 ### Miki Isayama
 * [Homework #1](https://editor.p5js.org/mikiisayama/sketches/uBy4lfF8A)
@@ -14,6 +16,7 @@
 
 ### Hyun Jin Kim
 * [Homework #1](https://editor.p5js.org/Hyunjin/sketches/BF2CwR0cV)
+* [Homework #2](https://editor.p5js.org/Hyunjin/sketches/pFe0MoANa)
 
 ### YJ Park
 * [Homework #1](https://editor.p5js.org/YeaJin/sketches/XwrSZ1wIk)
@@ -22,9 +25,12 @@
 * [Homework #1](https://editor.p5js.org/ttran4/sketches/z5phTL3lE)
 
 ### Erin Wang
+* [Homework #1](https://editor.p5js.org/eeeee1/sketches/sOGcRReHF)
+* [Homework #2](https://editor.p5js.org/eeeee1/sketches/WUV_SbOTe)
 
 ### Siyue(Isaac) Zhang
 * [Homework #1](https://editor.p5js.org/Isaac_zhang/sketches/i2V0IvhKE)
+* [Homework #2](https://editor.p5js.org/Isaac_zhang/sketches/o-8Ah9jD1)
 
 ### Jinyuan Zheng
 * [Homework #1](https://editor.p5js.org/jzheng8/sketches/DrJ3t0g9i)
