@@ -11,8 +11,7 @@
 * [Homework #2](https://editor.p5js.org/yuan98/sketches/yf9P7eKYv)
 
 ### Miki Isayama
-* [Homework #1](https://editor.p5js.org/mikiisayama/sketches/uBy4lfF8A)
-* [Homework #1-2](https://editor.p5js.org/mikiisayama/sketches/uBy4lfF8A)
+* [Homework #1](https://editor.p5js.org/mikiisayama/sketches/uBy4lfF8A)\
 * [Homework #2](https://editor.p5js.org/mikiisayama/sketches/ugGHhWSNh)
 
 ### Hyun Jin Kim
