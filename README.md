@@ -106,6 +106,7 @@
     * [NIKE MUSIC SHOE](https://www.youtube.com/watch?v=uS1exujG3cY)
     * [discrete figures at Spiral Hall Tokyo](https://www.youtube.com/watch?time_continue=88&v=hauXQQhwbgM)
     * [Perfume Live at SXSW | STORY (SXSW-MIX)](https://www.youtube.com/watch?v=zZiPIgCtIxg)
+ * Presenter: Qinghua, Miki, YJ
  * [2D Transformation](https://editor.p5js.org/jinsung/sketches/fuV9qy_iZ)
     * Radians & Degrees
     * Translate / Rotate / Scale
