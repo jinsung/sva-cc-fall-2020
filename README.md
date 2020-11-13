@@ -114,19 +114,19 @@
  * Function
     * [Modularity](https://editor.p5js.org/jinsung/sketches/l7Uf-zbeO)
     * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
+ * [Clock](https://editor.p5js.org/jinsung/sketches/6zSA6_ZeW)
 
 ### Week 7 -- Function, Clock, and Object
  * [three.js](https://threejs.org/)
  * Function
     * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
- * [Clock](https://editor.p5js.org/jinsung/sketches/6zSA6_ZeW)
- * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
-
-### Week 8 -- Object and Array
- * [DIA Studio](http://dia.tv/)
+ * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV) 
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
  * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
  * [Object with Array](https://editor.p5js.org/jinsung/sketches/xKneEnFnW)
+
+### Week 8 -- Object and Array
+ * [DIA Studio](http://dia.tv/)
  * [Moving Characters 1](https://editor.p5js.org/jinsung/sketches/cJWSbuV1P2)
  * [Moving Charactors 2](https://editor.p5js.org/jinsung/sketches/SsIxIlQYa)
  * [Moving Charactors 3](https://editor.p5js.org/jinsung/sketches/aHTNv334s)
