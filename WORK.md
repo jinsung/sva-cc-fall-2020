@@ -26,6 +26,7 @@
 * [Homework #1](https://editor.p5js.org/Hyunjin/sketches/BF2CwR0cV)
 * [Homework #2](https://editor.p5js.org/Hyunjin/sketches/pFe0MoANa)
 * [Homework #3](https://editor.p5js.org/Hyunjin/sketches/9sTyy3LGP)
+* [Midterm](https://editor.p5js.org/Hyunjin/sketches/6aH47JC7f)
 
 ### YJ Park
 * [Homework #1](https://editor.p5js.org/YeaJin/sketches/XwrSZ1wIk)
@@ -46,6 +47,7 @@
 * [Homework #1](https://editor.p5js.org/eeeee1/sketches/sOGcRReHF)
 * [Homework #2](https://editor.p5js.org/eeeee1/sketches/WUV_SbOTe)
 * [Homework #3](https://editor.p5js.org/eeeee1/sketches/MhffwTDRN)
+* [Midterm](https://editor.p5js.org/eeeee1/sketches/f4xBGE0a2)
 
 ### Siyue(Isaac) Zhang
 * [Homework #1](https://editor.p5js.org/Isaac_zhang/sketches/i2V0IvhKE)
