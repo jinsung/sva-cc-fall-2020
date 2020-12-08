@@ -14,7 +14,8 @@
 * [Homework #1](https://editor.p5js.org/yuan98/sketches/Zs21QWIdW)
 * [Homework #2](https://editor.p5js.org/yuan98/sketches/yf9P7eKYv)
 * [Homework #3](https://editor.p5js.org/yuan98/sketches/L8uip9DYM)
-* [Midterm](https://editor.p5js.org/yuan98/sketches/KsVqtLUJi)
+* [Midterm_1](https://editor.p5js.org/yuan98/sketches/KsVqtLUJi)
+* [Midterm_2](https://editor.p5js.org/yuan98/sketches/4gUU_oVUm)
 
 ### Miki Isayama
 * [Homework #1](https://editor.p5js.org/mikiisayama/sketches/uBy4lfF8A)
