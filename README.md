@@ -155,14 +155,14 @@
  * [Friction](https://editor.p5js.org/jinsung/sketches/o-pAFmMop)
  * [Angry Particle?](https://editor.p5js.org/jinsung/sketches/B1d8CSJyE)
 
-### Week 11 -- Particle System / Final Project Presentation
+### Week 11 -- Particle System
  * [Robert Hodgin](http://roberthodgin.com/)
  * [Particle System](https://editor.p5js.org/jinsung/sketches/Gn1YNnTkn)
  * [Particle System / Noise](https://editor.p5js.org/jinsung/sketches/4wONJkuBy)
  * [Particle System / Repulse](https://editor.p5js.org/jinsung/sketches/VX43gPQuD)
  * [Particle System / Pixel Data](https://editor.p5js.org/jinsung/sketches/h-D0R-3-H)
  
- ### Week 12
+ ### Week 12  / Final Project Presentation
  * [IBM Think Exhibit](https://www.youtube.com/watch?v=JVrXAsYd1Wk)
  * [THA LTD.](http://tha.jp/works/)
  * [Letter Animation 1](https://editor.p5js.org/jinsung/sketches/eyAyczpBO)
