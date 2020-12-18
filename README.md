@@ -163,13 +163,6 @@
  * [Particle System / Pixel Data](https://editor.p5js.org/jinsung/sketches/h-D0R-3-H)
  
  ### Week 12  / Final Project Presentation
- * [IBM Think Exhibit](https://www.youtube.com/watch?v=JVrXAsYd1Wk)
- * [THA LTD.](http://tha.jp/works/)
- * [Letter Animation 1](https://editor.p5js.org/jinsung/sketches/eyAyczpBO)
- * [Letter Animation 2](https://editor.p5js.org/jinsung/sketches/dUCDvAlbf)
- * [Letter Animation 3](https://editor.p5js.org/jinsung/sketches/qUrMNVhiS)
- * [Letter Animation 3-1](https://editor.p5js.org/jinsung/sketches/_j2Xx0VqV)
- * [Letter Animation 4](https://editor.p5js.org/jinsung/sketches/bcS4TW7iv)
 
 ## Students with Disabilities
 
